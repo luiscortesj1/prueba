@@ -1,0 +1,3 @@
+let arrowfunc = function(){
+
+}

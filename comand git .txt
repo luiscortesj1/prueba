@@ -1,0 +1,20 @@
+configuracion del repositorio
+git init // iniciar el git
+git config user.name luiscortesj1 // asignar usuario git
+git config user.name // saber el nombre ingresado
+git config user.email luiscortesj1999@gmail.com // agg correo
+git config user.email // saber el correo
+
+configuracion global del repositorio en pc personal
+git config --global user.name luiscortesj1 // asignar usuario git
+git config --global user.email luiscortesj1999@gmail.com // agg correo
+
+conectar repositorio local con el remoto
+git remote add origin "url" // agg el link del repositorio
+git remote -v // saber si ya esta conectado el repositorio
+
+commits : donde se guardan las versiones del proyecto , llevan fecha y firmas de quien lo modifica
+agregar archivos al repositorio
+git add  "archivo con su ext"// los archivos
+git status // el estados de los archivos
+git add. //agg todos los archivos
